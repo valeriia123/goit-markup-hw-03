@@ -1,0 +1,262 @@
+
+body {
+    font-family: "Roboto", sans-serif;
+    color: #434455;
+    background-color: #ffffff;
+}
+ul, ol {
+    list-style-type: none;
+}
+a {
+    text-decoration: none;
+    color: inherit;
+}
+button {
+    cursor: pointer;
+}
+
+/* ========= /COMMON STYLES========= *
+
+
+/* =============HEADER=========== */
+.page-header {
+
+}
+.page-navigation {
+
+}
+.logo-link {
+color: #4d5ae5;
+    font-family: Raleway, sans-serif;
+    font-size: 18px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: 1.17;
+    letter-spacing: 0.03em;
+    text-transform: uppercase;
+}
+.logo-link:focus {
+    color: #404bbf;
+}
+.logo-studio {
+    color: #2E2F42;
+        font-size: 18px;
+        font-style: normal;
+        font-weight: 700;
+        line-height: 1.17;
+        letter-spacing: 0.03em;
+        text-transform: uppercase;
+}
+.main-address {
+    font-style: normal;
+}
+.list-address {
+
+}
+.list-header {
+    color: #2E2F42;
+        font-size: 16px;
+        font-style: normal;
+        font-weight: 500;
+        letter-spacing: 0.02em;
+        line-height: 1.5;
+}
+
+.item-header {
+    
+}
+.item-link {
+    line-height: 1.5;
+    letter-spacing: 0.02em;
+}
+.item-link:focus,
+.item-link:hover {
+    color: #404bbf;
+}
+
+/* .item-address {
+line-height: 1.5;
+letter-spacing: 0.02em;
+} */
+.link-header-contacts {
+    line-height: 1.5;
+    letter-spacing: 0.02em;
+}
+.link-header-contacts:focus,
+.link-header-contacts:hover {
+    color: #404bbf;
+}
+.item-address:focus,
+.item-address:hover {
+color: #404BBF;
+}
+
+/* ============= /HEADER=========== */
+
+
+/* =========SECTION EFFECTIVE========= */
+
+.section-effective {
+background-color: #2E2F42;
+}
+.main-title {
+color: #FFFFFF;
+    font-size: 56px;
+    line-height: 1.07;
+    letter-spacing: 0.02em;
+    text-align: center;
+}
+.button-order-service {
+    color: #ffffff;
+    line-height: 1.5;
+    font-weight: 500;
+    background: #4D5AE5;
+    font-family: "Roboto", sans-serif;
+    font-size: 16px;
+    letter-spacing: 0.04em;
+}
+.button-order-service:focus,
+.button-order-service:hover {
+    background-color: #404BBF;
+}
+/* ========= /SECTION EFFECTIVE========= */
+
+
+/* ==========SECTION INFORMATION========== */
+
+.section-information {
+
+}
+.hidded-title {
+
+}
+.list-information {
+
+}
+.item-information {
+
+}
+.title-information {
+color: #2e2f42;
+    font-family: Roboto;
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: 1.2;
+    letter-spacing: 0.02em;
+}
+.paragphrap-information {
+color: #434455;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 1.5;
+    letter-spacing: 0.02em;
+}
+/* ========== /SECTION INFORMATION======== */
+
+
+/* ============OUR TEAM============== */
+
+.our-team {
+background-color: #F4F4FD;
+}
+.title-our-team {
+color: #2E2F42;
+    font-size: 36px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: 1.11;
+    letter-spacing: 0.02em;
+    text-transform: capitalize;
+    text-align: center;
+}
+.list-our-team {
+    background: #FFFFFF;
+}
+.item-our-team {
+background-color: #FFFFFF;
+}
+.name-our-team {
+color: #2E2F42;
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: 1.2;
+    letter-spacing: 0.02em;
+}
+.description-our-team {
+color: #434455;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 1.5;
+    letter-spacing: 0.02em;
+}
+/* =========== /OUR TEAM============= */
+
+/* =============PORTFOLIO============== */
+
+.portfolio {
+background: #FFFFFF;
+}
+.title-portfolio {
+color: #2E2F42;
+    font-size: 36px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: 1.11;
+    letter-spacing: 0.02em;
+    text-transform: capitalize;
+    text-align: center;
+}
+.list-portfolio {
+    
+}
+.item-portfolio {
+
+}
+.name-photo-portfolio {
+color: #2e2f42;
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: 1.2;
+    letter-spacing: 0.02em;
+}
+.p-photo-portfolio {
+    color:#434455;       
+        font-size: 16px;
+        font-style: normal;
+        font-weight: 400;
+        line-height: 1.5;
+        letter-spacing: 0.02em;
+}
+/* ============ /PORTFOLIO============= */
+
+/* ============FOOTER============= */
+
+.page-footer {
+background: #2E2F42;
+
+}
+.page-footer .logo-studio {
+    color: #f4f4fd;
+        font-family: "Raleway", sans-serif,;
+        font-size: 18px;
+        font-style: normal;
+        font-weight: 700;
+        line-height: 1.17;
+        letter-spacing: 0.03em;
+        text-transform: uppercase;
+}
+.footer-p {
+    color: #F4F4FD;
+        font-size: 16px;
+        font-style: normal;
+        font-weight: 400;
+        line-height: 1.5;
+        letter-spacing: 0.02em;
+}
+/* ============ /FOOTER============= */
+
